@@ -1,0 +1,12 @@
+Para preparar o bolo Pedro deve:
+
+1 - Selecionar as ferramentas necessárias para a produzi-lo ( recipientes, colheres, formas, etc);
+2 - Em um recipiente adicionar os ingredientes sólidos;
+3 - Misturar os ingredientes sólidos;
+4 - Adicionar leite e misturar;
+5 - Adionar os demais ingredientes e misturar;
+6 - Untar a forma;
+7 - Pré-aquecer o forno em temperatura ideal para cocção do bolo;
+8 - Na forma untada adicionar a massa do bolo;
+9 - Colocar o bolo no forno e aguardar o tempo necessário para cocção;
+10 - Bolo pronto.
