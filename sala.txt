@@ -1,1 +1,6 @@
-E
+Para encontrar a cadeira em que houve a troca de alunos e qual a disciplina de cada um o professor pode:
+
+1 - Varrer cada cadeira da sala e criar uma lista dos vizinhos;
+2 - Fazer a lista em sentido horário;
+3 - Comparar a lista de cada posição na configuração atual com a configuração antiga.
+4 - Desse modo encontrar-se-á a posição e a disciplina alterada.
