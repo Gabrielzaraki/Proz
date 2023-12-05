@@ -1,0 +1,21 @@
+Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais. Alguns desses dados
+fornecidos pelo usuário precisam ser apresentados na tela quando o algoritmo for executado, são eles:
+ 
+- Nome;
+- Endereço;
+- Cidade;
+- CPF;
+- RG.
+
+################ Algoritmo ###################
+
+escreva("Digite seu nome");
+leia(nome);
+escreva("Digite seu Endereço");
+leia(endereço);
+escreva("Digite sua Cidade");
+leia(cidade);
+escreva("Digite seu CPF");
+leia(cpf);
+escreva("Digite seu RG");
+leia(rg);
