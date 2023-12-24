@@ -1,0 +1,6 @@
+escreva("Digite o nome de time)
+leia(nome)
+contador = 0
+repita enquanto contador <=4
+escreva(nome + " - " contador)
+contador += 1
