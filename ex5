@@ -1,0 +1,3 @@
+Se (fumante ou possui_animal_estimação) então AREA_EXTERNA 
+SeNão grupo_maior_que_5 então ANDAR_1 
+Else TERREO
